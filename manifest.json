@@ -1,0 +1,38 @@
+﻿{
+  "name": "arlinadesign.com",
+  "short_name": "ArlinaDesign",
+  "start_url": "https://www.arlinadesign.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "Arlina Design, Blogger eklenti ve tema tasarımlarını paylaşan, Blogger ayarları ve SEO ile ilgili bilgiler paylaşan bir web sitesidir",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-kSPEsyplTDc/XKAHwVm7KPI/AAAAAAAAKCY/ZQdhSCd810QSsNUXEqDxECaM9VQ5YXFUQCLcBGAs/s48/android-icon-48-48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-kIn17BPtGog/XKAHwutF4nI/AAAAAAAAKCc/5ZMpbx2puaM-Sdd4-bp3jJ-XMPtQtz0igCLcBGAs/s72/android-icon-72-72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-b8nifRzVaY0/XKAHwybgIcI/AAAAAAAAKCg/23nAjWC5v7gaFbHNqqze7FCfe6gfTbA-ACLcBGAs/s96/android-icon-96-96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-EjdzkwFdoMI/XKAHvsg76eI/AAAAAAAAKCM/_ZDHod6ihEod-sujdcqLxwMp-fyA5aLVgCLcBGAs/s144/android-icon-144-144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-HxJM98AtsbU/XKAHvv57gMI/AAAAAAAAKCI/3WPzbx0ucZMeZLGMgVGSlXgYv0IZTZC6wCLcBGAs/s168/android-icon-168-168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-YQkQo4YpLPo/XKAHwZc-05I/AAAAAAAAKCU/hK5Lvj7I-AEex2UU_S4rzxKuxlhSj_TGwCLcBGAs/s192/android-icon-192-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-tjDiT4crYXg/XKAIqOy7RWI/AAAAAAAAKDQ/eXmp0g_2i4MwMw2X4f60HjHXQrO_X57TgCLcBGAs/s512/Logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
